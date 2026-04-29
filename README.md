@@ -20,7 +20,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=piyushmishra19)
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=piyushmishra19&show_icons=true&theme=radical)
+
+![Streak](https://streak-stats.demolab.com/?user=piyushmishra19&theme=radical)
 
 ---
 
