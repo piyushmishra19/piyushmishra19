@@ -10,28 +10,37 @@
 ### 🚌 AI-Based Integrated Bus Tracking System (AIBTS)
 Full Stack Web Application with multi-role access (Passenger, Driver, Admin) for real-time bus tracking, route management, and ticket booking.  
 **Tech Stack:** Next.js, React, TypeScript, MySQL  
-👉 [View Project](https://github.com/piyushmishra19/bus-tracking-system)
 
 ---
 
 ### 🧠 Vertex Presence – Smart Attendance System
 AI + RFID-based attendance system to prevent proxy attendance with real-time tracking and analytics dashboard.  
 **Tech Stack:** Python, RFID, Cloud Analytics  
-👉 [View Project](https://github.com/piyushmishra19/vertex-presence)
 
 ---
 
 ### 📚 Library Management System
 A system to manage book records, issue/return tracking, and user management.  
 **Tech Stack:** SQL, Backend Development  
-👉 [View Project](https://github.com/piyushmishra19/library-management-system)
 
 ---
 
 ## 🛠 Skills
-- Languages: C++, Python, SQL  
-- Tools: Git, GitHub, VS Code  
-- Domains: Machine Learning, Data Science  
+
+### 💻 Programming Languages
+- C++, Python, SQL, TypeScript
+
+### 🌐 Web Development
+- Next.js, React.js, HTML, CSS
+
+### 🧠 AI & Data Science
+- Machine Learning, Data Analysis, Anomaly Detection
+
+### 🗄 Database
+- MySQL
+
+### ⚙️ Tools & Technologies
+- Git, GitHub, VS Code
 
 ---
 
