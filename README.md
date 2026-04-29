@@ -53,4 +53,4 @@ A system to manage book records, issue/return tracking, and user management.
 ---
 
 ## 📫 Connect with me
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
+- LinkedIn: https://www.linkedin.com/in/piyush-mishra-867b1134a/
